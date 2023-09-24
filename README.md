@@ -1,0 +1,1 @@
+This is a basic webpack project template for frontend development.
